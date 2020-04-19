@@ -34,9 +34,8 @@
     'demo': [
         'demo/demo.xml',
     ],
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/cover.png'],
     'icon': "/public_holiday/static/description/icon.png",
-    'license': "",
     'installable': True,
     'application': True,
     "license": "OPL-1",
